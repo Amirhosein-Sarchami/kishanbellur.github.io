@@ -12,11 +12,12 @@ author_profile: true
 excerpt: <font size="3"> Porous Media Flow, Two-Phase Flow, Thermal Management, Optical Microscopy </font>
 ---
 ### Research Interests
-Porous Media Flow, Two-Phase Flow, Thermal Management, Optical Microscopy
+Porous Media, Two-Phase Flow, Thermal Management, Optical Microscopy
 
 ### Education
-* M.S. in Mechanical Engineering, Islamic Azad University, 2022
+* M.S. in Mechanical Engineering, Islamic Azad University (Science and Research), 2022
 * B.S. in Mechanical Engineering, Islamic Azad University, 2019
 
 ### Honors and awards
 * Several Travel Awards from the College of Engineering and Applied Science, University of Cincinnati
+* 1st Place Winner Green Energy CFD Competition, American Society of Thermal Fluid Engineering (ASTFE)
